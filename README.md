@@ -1,2 +1,3 @@
 # python-app
-Test app with python django framework.
+
+app created with django framework
